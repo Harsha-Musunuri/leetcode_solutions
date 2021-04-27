@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 public class validParenthesis {
     public static boolean validP(String s,stack stk){
         for (int i = 0 ; i < s.length() ; i++)
